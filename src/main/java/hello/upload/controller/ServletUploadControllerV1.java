@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Collection;
 
 @Slf4j
-@Controller
+//@Controller
 @RequestMapping("/servlet/v1")
 public class ServletUploadControllerV1 {
 
